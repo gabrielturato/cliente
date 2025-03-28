@@ -55,4 +55,7 @@ public class ClientDTO {
         children = client.getChildren();
     }
 
+    public ClientDTO(){
+    }
+
 }
